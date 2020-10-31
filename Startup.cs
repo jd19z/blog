@@ -49,7 +49,7 @@ namespace Blog
             //{
               // endpoints.MapGet("/", async context =>
               //{
-                 //   await context.Response.WriteAsync("your mother!");
+                 //   await context.Response.WriteAsync("Hello");
                // });
            // });
         }
